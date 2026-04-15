@@ -197,4 +197,5 @@ Date: ...............................................
 
 ## Attachment
 - File: [khosora.md](khosora.md)
+- File: [khosora2.md](khosora2.md) 
 - Google Docs: [BDSET Official Draft](https://docs.google.com/document/d/1XGTpLRzvzvy2aZTzcVMS_cfmryPWyHn2MRES7gJ1Cdg/edit?usp=sharing)
